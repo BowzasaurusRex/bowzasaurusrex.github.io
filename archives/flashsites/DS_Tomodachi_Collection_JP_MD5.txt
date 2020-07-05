@@ -1,7 +1,7 @@
-8526B0754C6EBE47056F5456D8FD652D *www.nintendo.co.jp\ds\ccuj\facility\index.html
-C41559D51C70754F131D8D22C8ABAC9C *www.nintendo.co.jp\ds\ccuj\human\index.html
-41AE45CADFDFAA8E5406BA1F6000F9BA *www.nintendo.co.jp\ds\ccuj\contact\index.html
-A5CE9C577AAE31C1E3D9CDD9E81C0E87 *www.nintendo.co.jp\ds\ccuj\howto\index.html
+8526B0754C6EBE47056F5456D8FD652D *www.nintendo.co.jp\ds\ccuj\facility\index1.html
+C41559D51C70754F131D8D22C8ABAC9C *www.nintendo.co.jp\ds\ccuj\human\index1.html
+41AE45CADFDFAA8E5406BA1F6000F9BA *www.nintendo.co.jp\ds\ccuj\contact\index1.html
+A5CE9C577AAE31C1E3D9CDD9E81C0E87 *www.nintendo.co.jp\ds\ccuj\howto\index1.html
 8CA3C1164F8E35E4810FA681A542439D *www.nintendo.co.jp\ds\ccuj\qa\img\box02.gif
 1DE59271F11ABD39F263D02FACD13CC1 *www.nintendo.co.jp\ds\ccuj\qa\img\ans.gif
 CC2AA5F01035DB4D59EF3A575C309C3A *www.nintendo.co.jp\ds\ccuj\qa\img\que.gif
@@ -11,7 +11,7 @@ DF9C4ABB8065B0ABC17EEA19294FCDFB *www.nintendo.co.jp\ds\ccuj\qa\img\qmark.gif
 099381FDA5CE6C8FEDFC5FDFB799287B *www.nintendo.co.jp\ds\ccuj\qa\img\midashi.gif
 0668B8F720385976A45A98D2CA486C65 *www.nintendo.co.jp\ds\ccuj\qa\img\mii.gif
 51C2F4547C101AD6FEDF1849FDC69EC4 *www.nintendo.co.jp\ds\ccuj\qa\img\title.gif
-378ED1BCF832854D3CFE519D76BF4F46 *www.nintendo.co.jp\ds\ccuj\qa\index.html
+378ED1BCF832854D3CFE519D76BF4F46 *www.nintendo.co.jp\ds\ccuj\qa\index1.html
 462E21D7F444D1F8396AD6116EB845CA *www.nintendo.co.jp\ds\ccuj\facility\swf\question.flv
 182EC069BEF162EFE0160395A34583BF *www.nintendo.co.jp\ds\ccuj\facility\swf\cityhall.flv
 4F245DC876D6B0ABB61E752500DBF615 *www.nintendo.co.jp\ds\ccuj\facility\swf\food.flv
@@ -111,7 +111,7 @@ A6A4C592DD9F381B966C3DC6A105A12E *www.nintendo.co.jp\ds\ccuj\about\img\title.gif
 263774CE6E09E6EAE98E1604CEECFEF3 *www.nintendo.co.jp\ds\ccuj\img\bg.gif
 02DC7603A9C43DAE09AFD8B81D4EC7D0 *www.nintendo.co.jp\ds\ccuj\img\c01a.gif
 8B01F7288034D73E522B68712C555BA7 *www.nintendo.co.jp\ds\ccuj\swf\header.swf
-43E29AE2A27795F093A8C2123B152A84 *www.nintendo.co.jp\ds\ccuj\about\index.html
+43E29AE2A27795F093A8C2123B152A84 *www.nintendo.co.jp\ds\ccuj\about\index1.html
 47839539EEC3E665C334BD916C2FA17F *www.nintendo.co.jp\ds\ccuj\swf\04_love.flv
 32FC37133C6FA09BD2983ABE1C7AAF3D *www.nintendo.co.jp\ds\ccuj\swf\05_ramen.flv
 DD81A7C51182ACEB751FBFC825ACD7A1 *www.nintendo.co.jp\ds\ccuj\swf\01_furo.flv
@@ -176,7 +176,7 @@ A0929DB9C74BED3D5C0A110B096EA3ED *www.nintendo.co.jp\ds\interview\js\wiidsi_adju
 05C56B5F6574A0EE74B3CDA1B72C46A5 *www.nintendo.co.jp\ds\interview\css\overwrite.css
 6AA0F176F4E8D4F27CF1D3EEBABFC971 *www.nintendo.co.jp\ds\interview\css\import.css
 29AF406284DDC0F4433AD647EA4AE992 *www.nintendo.co.jp\ds\interview\css\default.css
-C701A1B50A2EAEBA5AB61656B35E690D *www.nintendo.co.jp\ds\ccuj\vol1\index.html
+C701A1B50A2EAEBA5AB61656B35E690D *www.nintendo.co.jp\ds\ccuj\vol1\index1.html
 98EC7ABE38188AA76CEBB2D4AB18A029 *www.nintendo.co.jp\ds\ccuj\img\ds_logo.gif
 F62CD84DDA621541D7DF396237919F2E *www.nintendo.co.jp\ds\ccuj\img\tc2_bnr.png
 6439DCC1AD8A8B2094F45270E3B820EE *www.nintendo.co.jp\ds\ccuj\img\list_line.gif
@@ -198,4 +198,4 @@ B1408FD0AD7F7DDDE3DAED29B02D9884 *www.nintendo.co.jp\ds\ccuj\js\openwin.js
 031B04EAF309703ED91B084E75FBF86B *www.nintendo.co.jp\ds\ccuj\js\rollover.js
 EAA5417940C71F441B016B12C534665D *www.nintendo.co.jp\ds\ccuj\js\swfobject.js
 EC1DAB6F0F425077D670CFB306C9DF2A *www.nintendo.co.jp\ds\ccuj\css\style.css
-3FC3EF51E7EF30D736D2102875EBE3E2 *www.nintendo.co.jp\ds\ccuj\index.html
+3FC3EF51E7EF30D736D2102875EBE3E2 *www.nintendo.co.jp\ds\ccuj\index1.html

@@ -52,7 +52,7 @@ B405741DF53CC35C041400585DA21D5D *kirby.nintendo.com\superstarultra\_img\moreGam
 8D708A55005EC97E8C48416C46989364 *kirby.nintendo.com\superstarultra\_css\style.css
 D25653BC06CF05842B6B4D3C1E4B6C06 *kirby.nintendo.com\superstarultra\_js\s_code.js
 8148C1890B45B121A193BEBF1D82CE47 *kirby.nintendo.com\superstarultra\_js\swfobject.js
-CFC8018E172CF08D0691F2F32EA1C919 *kirby.nintendo.com\superstarultra\index.html
+CFC8018E172CF08D0691F2F32EA1C919 *kirby.nintendo.com\superstarultra\index1.html
 0ACAA943C29FA69B6B3C315B06C7DBC2 *kirby.nintendo.com\superstarultra\_downloads\kirby_buddy_icons.zip
 BFF8DF8C93BB56BD4EA3BAA82AFEBE14 *kirby.nintendo.com\superstarultra\_downloads\kirby_wallpaper_1.zip
 48DC0C57E3CB0F5DFA47D18D45299429 *kirby.nintendo.com\superstarultra\_downloads\kirby_wallpaper_2.zip

@@ -33,4 +33,4 @@ F609D533E415F5BDBFD8E3494CEEFAC3 *gamesites.nintendo.com.au\wii-sports-resort-po
 4456D815323DC2033EE9B14A7DBB016E *gamesites.nintendo.com.au\wii-sports-resort-portal\en_AU\js\s_code.js
 1D1A25DEE8E7EF6BE67BB809E109A568 *gamesites.nintendo.com.au\wii-sports-resort-portal\en_AU\Scripts\swfobject_modified.js
 EE69C0EBE95E0CF6B9944B006766D7CE *gamesites.nintendo.com.au\wii-sports-resort-portal\en_AU\styles.css
-0FC2623A6CC301177BF7B6BA8D6FA9BE *gamesites.nintendo.com.au\wii-sports-resort-portal\en_AU\index.html
+0FC2623A6CC301177BF7B6BA8D6FA9BE *gamesites.nintendo.com.au\wii-sports-resort-portal\en_AU\index1.html

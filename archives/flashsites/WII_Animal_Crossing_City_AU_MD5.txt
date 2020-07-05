@@ -17,7 +17,7 @@ F609D533E415F5BDBFD8E3494CEEFAC3 *gamesites.nintendo.com.au\animal-crossing-wii\
 66D41EC7090BBDDE87E09A309DEA6661 *gamesites.nintendo.com.au\animal-crossing-wii\en_AU\misc\swfobject.js
 F5F9C2A58C9AA85CBD602F61665DA2A8 *gamesites.nintendo.com.au\animal-crossing-wii\en_AU\AC_RunActiveContent.js
 3251D9877C3C11D81F2A6836488E184F *gamesites.nintendo.com.au\animal-crossing-wii\en_AU\styles2.css
-E260AF85D13E54CA8D706B9E80BB2343 *gamesites.nintendo.com.au\animal-crossing-wii\en_AU\index.html
+E260AF85D13E54CA8D706B9E80BB2343 *gamesites.nintendo.com.au\animal-crossing-wii\en_AU\index1.html
 CC91196DD0E77BDFB9836C2B42252AFC *gamesites.nintendo.com.au\animal-crossing-wii\en_AU\data\downloads\ic_01.zip
 2B58D48020C040BC60EC83F6B11C1B92 *gamesites.nintendo.com.au\animal-crossing-wii\en_AU\data\downloads\wp_01.zip
 A391B1D5F1A14899C7E1BE733F3A9614 *gamesites.nintendo.com.au\animal-crossing-wii\en_AU\data\downloads\wp_02.zip
