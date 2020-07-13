@@ -105,6 +105,21 @@
 			left: 8px;
 			top: 31px;
 		}
+		#sectionURLS {
+			position: absolute;
+			width: 46px;
+			height: 69px;
+			background-image: url("../../img/common/urls.png");
+			top: 31px;
+			left: 175px;
+		}
+		#textURLS {
+			position: absolute;
+			color: black;
+			top: 5px;
+			left: 7px;
+			font-family: Impact, Charcoal, sans-serif;
+		}
 	</style>
 	<script>
 		function back() {
@@ -127,32 +142,35 @@
 		<div id="sectionInfo">
 			<p id="textPlatform">Flash Site</p>
 			<p id="textNormal">
-				Archived 11/25/2018<br>
-				Nintendo Australia<br>
+				Archived Unknown<br>
+				Nintendo of Japan<br>
 				Flash Site
 			</p>
-			<p id="textNormal" style="left: 400px;">Compatibility Issues</p>
-			<p id="textTitle" style="margin-left: 60px;">Dragon Quest IX</p>
-			<img src="../../img/archives/flashsites/DS_Dragon_Quest_IX.png" id="imageScreenshot">
+			
+			
+			<div id="sectionURLS">
+				<h3 id="textURLS" style="left: 18px;">1</h6>
+			</div>
+			
+			<p id="textNormal" style="left: 400px;">Complete</p>
+			<p id="textTitle" style="left: 150px;">The Legend of Zelda: Majora's Mask</p>
+			<img src="../../img/archives/flashsites/N64_Majoras_Mask.png" id="imageScreenshot">
 		</div>
 		
 		<h6 style="color: rgb(142, 148, 168); position: absolute; margin-top: 292px;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • </h6>
 		<br>
 		
 		<!--Download and recommendation buttons-->
-		<p style="left: 140px; position: absolute; top: 285px;">
-			This flash site only works when downloaded locally.<br>
-		</p>
-		<p style="left: 240px; position: absolute; top: 305px;">
-			More info <a href="..\..\news\info1.html">here</a>.
-		</p>
-		<p style="left: 120px; position: absolute; top: 330px;">
-			Use index.swf in the Flash Projector. Videos will not load.
-		</p>
+		<a target="_parent" href="https://web.archive.org/web/20001019085945id_/http://www.nintendo.co.jp/n01/n64/software/nus_p_nzsj/flash/index.html">
+			<div id="buttonDownload" style="left: 150px;">
+				<h2 id="textWhite">View Site</h2>
+				<h2 id="textWhite" style="top: 43px; left: 95px;">HTML</h2>
+			</div>
+		</a>
 		
 		<!--Footer buttons-->
-		<a href="DS_Dragon_Quest_IX_MD5.txt" style="text-decoration: none;">
-			<div id="buttonGeneric" style="margin-left: 380px;">
+		<a href="N64_Majoras_Mask_MD5.txt" style="text-decoration: none;">
+			<div id="buttonGeneric" style="margin-left: 380px; visibility: hidden;">
 				<p style="margin-left: 50px; margin-top: 20px; color: black;">MD5 Checksums</p>
 			</div>
 		</a>
