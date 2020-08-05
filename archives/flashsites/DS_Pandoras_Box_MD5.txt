@@ -1,0 +1,12 @@
+CBC1CFC6CFAC90B0BA4B5F7BDF2B06F7 *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_swf\intro.swf
+C17E3564ABC8079E136BBAB8588F45BD *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_swf\preintro.swf
+D4939939A64A66E7A3056E1BBA1B8232 *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_sound\bgmusic.mp3
+4397C35B5B6730991BF6DF8EDFCFA117 *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_swf\shell.swf
+E03E528024D339BB0CE4D1C945CCA778 *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_images\bg.jpg
+4456D815323DC2033EE9B14A7DBB016E *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\js\s_code.js
+5D0D1CB30F8452CC570F05D9137859D1 *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_images\logo_club.gif
+0CF976B579810C56EA6262B6035D0827 *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_images\logo_level5.gif
+9698360BFF068F9A76D064BE702B0BCA *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_images\logo_nintendo_ds.gif
+5B8EB579F22DAC02D3D8FC570E136784 *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_images\logo_nintendo.gif
+C636EF7A88D91F44035241FFDA51BFD6 *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\_inc\swfobject.js
+AB0C04F9B0701026E1868CA0FCF22E91 *gamesites.nintendo.com.au\professor-layton-and-pandoras-box\en_AU\index.html
