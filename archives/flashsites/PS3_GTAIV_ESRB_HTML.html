@@ -59,8 +59,8 @@
 		#sectionInfo {
 			position: absolute;
 			width: 537;
-			height: 217;
-			background: url("../../img/info/details.png");
+			height: 267;
+			background: url("../../img/info/warning.png");
 			top: 80px;
 		}
 		#textPlatform {
@@ -79,8 +79,7 @@
 			position: absolute;
 			color: rgb(52, 190, 237);
 			font-weight: bold;
-			left: 150px;
-			top: 170px;
+			left: 120px;
 		}
 		#buttonDownload {
 			position: absolute;
@@ -120,6 +119,18 @@
 			left: 7px;
 			font-family: Impact, Charcoal, sans-serif; font-size: 90%;
 		}
+		#imgESRB {
+			position: absolute;
+			top: 85px;
+			left: 235px;
+			width: 40px;
+		}
+		#textESRB {
+			position: absolute;
+			left: 90px;
+			top: 130px;	
+			text-align: center;
+		}
 	</style>
 	<script>
 		function back() {
@@ -129,7 +140,7 @@
 	<body>
 		<!--Header-->
 		<div id="textGP"><div><div><div>
-			<h1 style="color: rgb(52, 190, 237); margin-top: 50px; margin-left: 10px; position: abosulute;">Details</h1>
+			<h1 style="color: rgb(52, 190, 237); margin-top: 50px; margin-left: 10px; position: abosulute;">Game Ratings</h1>
 		</div></div></div></div>
 		<h6 style="color: rgb(142, 148, 168); position: absolute; margin-top: -5px;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • </h6>
 		
@@ -140,45 +151,30 @@
 		</a>
 		<!--info section-->
 		<div id="sectionInfo">
-			<p id="textPlatform">Flash Site</p>
-			<p id="textNormal">
-				Unknown<br>
-				Rockstar Games<br>
-				Flash Site
+			<p id="textTitle" style="left: 185px;">Grand Theft Auto IV</p>
+			<p id="textTitle" style="top: 45px; left: 90px;">Please note the ratings for this title before continuing</p>
+			<img id="imgESRB" src="https://web.archive.org/web/20190806090636id_/https://www.esrb.org/wp-content/themes/esrb/assets/images/M.svg">
+			<p id="textESRB">
+				Blood - Intense Violence - Partial Nudity<br>
+				Strong Language - Strong Sexual Content<br>
+				Use of Drugs and Alcohol<br>
+				<br>
+				The ratings shown are for the game listed above<br>
+				By continuing you agree that you are 17+ years of age<br>
 			</p>
-			<p id="textNormal" style="left: 440px;">Incomplete</p>
-			<p id="textTitle" style="margin-left: 45px;">Grand Theft Auto IV</p>
-			<img src="../../img/archives/flashsites/PS3_GTAIV.png" id="imageScreenshot">
 		</div>
-		
 		<h6 style="color: rgb(142, 148, 168); position: absolute; margin-top: 292px;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • </h6>
 		<br>
 		
-		<!--Download and recommendation buttons-->
-		<a href="PS3_GTAIV_ESRB_HTML.HTML">
-			<div id="buttonDownload" style="left: 0px; visibility: visible;">
-				<h2 id="textWhite">View Site</h2>
-				<h2 id="textWhite" style="top: 43px; left: 95px;">HTML</h2>
-			</div>
-		</a>
-		<a href="PS3_GTAIV_ESRB_SWF.HTML">
-			<div id="buttonDownload" style="left: 300px; visibility: visible;">
-				<h2 id="textWhite" style="left: 75px;">View Site</h2>
-				<h2 id="textWhite" style="top: 43px; left: 105px;">SWF</h2>
-			</div>
-		</a>
-		
 		<!--Footer buttons-->
-		<a href="PS3_GTAIV_MD5.html" style="text-decoration: none;">
-			<div id="buttonGeneric" style="margin-left: 380px; visibility: visible;">
-				<p style="margin-left: 50px; margin-top: 20px; color: black;">MD5 Checksums</p>
+		<a target="_parent" href="https://web.archive.org/web/20200801000502id_/https://www.rockstargames.com/IV/" style="text-decoration: none;">
+			<div id="buttonGeneric" style="margin-left: 380px;">
+				<p style="margin-left: 80px; margin-top: 20px; color: black;">Agree</p>
 			</div>
 		</a>
 		
-		
-			<div id="buttonGeneric" onclick="back()">
-				<p style="margin-left: 80px; margin-top: 20px; color: black;">Back</p>
-			</div>
-		
+		<div id="buttonGeneric" onclick="back()">
+			<p style="margin-left: 80px; margin-top: 20px; color: black;">Back</p>
+		</div>
 	</body>
 </html>
